@@ -1,4 +1,4 @@
-From beevelop/ionic
+From beevelop/ionic:v4.1.2
 
 LABEL maintainer="yannikfuhrmeister@web.de"
 
